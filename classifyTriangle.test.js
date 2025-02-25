@@ -1,7 +1,7 @@
 const classifyTriangle = require('./classifyTriangle');
 
 describe('classifyTriangle: Required input conditions - See readme for more details', () => {
-  // Equivalence Class Partition Tests (ECP)
+  // Equivalence Class Partition Tests
   describe('Equivalence Class Partition Tests', () => {
     // Valid Equivalence Classes
     test('Valid Equilateral triangle', () => {
